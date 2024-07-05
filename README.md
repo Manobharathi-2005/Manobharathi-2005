@@ -4,7 +4,7 @@
 <div style="padding:100px">
 <div style="padding:100px">
 <h1 align="center">I'm  Manobharathi </h1>
-<hr>
+<hr> 
 <h3 align="center">A passionate Full Stack Web developer from India .</h3>
 <img align="right" style="border-radius:20px;" alt="Coding" width="400" src="https://github.com/ayrus-369/ayrus-369/blob/main/github-gif.gif"/>
 
