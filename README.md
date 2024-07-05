@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/manobharathi-m-69585b23b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/manobharathi-m-69585b23b" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/manobharathi-m-69585b23b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/manobharathi-m-69585b23b" height="30" width="40" /></a>
   <a href="https://www.geeksforgeeks.org/user/mmanobharathi123/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Manobharathi-2005" height="30" width="40" style="max-width: 100%;"></a>
 </p>
 <hr>
