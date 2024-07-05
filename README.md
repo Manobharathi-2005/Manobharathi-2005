@@ -6,7 +6,7 @@
 <h1 align="center">I'm  Manobharathi </h1>
 <hr>
 <h3 align="center">A passionate Full Stack Web developer from India .</h3>
-<img align="right" style="border-radius:20px;" alt="Coding" width="400"/>
+<img align="right" style="border-radius:20px;" alt="Coding" width="400" src="https://github.com/ayrus-369/ayrus-369/blob/main/github-gif.gif"/>
 
 
 - 🔭 I’m currently pursing Information Technology in K.L.N college of engineering and technology **Batch (2022 -2026)**
