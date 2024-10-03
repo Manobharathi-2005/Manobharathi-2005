@@ -11,9 +11,7 @@
 
 - 🔭 I’m currently pursing Information Technology in K.L.N college of engineering and technology **Batch (2022 -2026)**
 
-- 🌱 I’m currently learning **React js**
-
-- 💬 Ask me about **html, css, javascript,react js**
+- 💬 Ask me about **html, css, javascript,java **
 
 - 📫 How to reach me **m.manobharathi123@gmail.com**
 
