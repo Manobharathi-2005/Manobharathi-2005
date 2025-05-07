@@ -1,63 +1,58 @@
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hello%20Everyone%20😁&text2=💖%20FullStack%20Developer&width=1000&height=300&align=center)](https://github.com/Akshay090/svg-banners)
 
+<div align="center">
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hello%20Everyone%20%20😁&text2=💖%20FullStack%20Developer&width=1000&height=300&align="center")](https://github.com/Akshay090/svg-banners)
-<div style="padding:100px">
-<div style="padding:100px">
-<h1 align="center">I'm  Manobharathi </h1>
-<hr> 
-<h3 align="center">A passionate JAVA FULL STACK developer from India .</h3>
-<img align="right" style="border-radius:20px; margin-left:200px;" alt="Coding" width="400" src="https://github.com/ayrus-369/ayrus-369/blob/main/github-gif.gif"/>
-
-
-- 🔭 I’m currently pursing Information Technology in K.L.N college of engineering and technology **Batch (2022 -2026)**
-
-- 💬 Ask me about **html, css, javascript,java,spring boot,react js ,mysql**
-
-- 📫 How to reach me **m.manobharathi123@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/manobharathi-m-69585b23b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/manobharathi-m-69585b23b" height="30" width="40" /></a>
-  <a href="https://www.geeksforgeeks.org/user/mmanobharathi123/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Manobharathi-2005" height="30" width="40" style="max-width: 100%;"></a>
-  <a href="https://takeuforward.org/profile/manobharathi" rel="nofollow"><img align="center" src="https://yt3.googleusercontent.com/ytc/AIdro_mdPFTT7VuJHQkvzW9gjJxvSV3bBDpEVNw8dWOmHjTT5g=s900-c-k-c0x00ffffff-no-rj" alt="Manobharathi-2005" height="30" width="40" style="max-width: 100%;"></a>
-
-  <a href="https://leetcode.com/u/user6465gj/" rel="nofollow"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyHed-NyrnjC6OzPcnPXQuzS8yqu2BQn5CcA&s" alt="Manobharathi-2005" height="30" width="40" style="max-width: 100%;"></a>
-    <a href="(https://www.hackerrank.com/profile/m_manobharathi11)" rel="nofollow"><img align="center" src="https://lens.usercontent.google.com/image?vsrid=CN-Mvbja6pX1pAEQAhgBIiQ5N2UxYzI5Ny04MTBhLTQzZTItYmE4My0zZGI3ZmMwMzQzMDk&gsessionid=TxtQMOjQK-8mF2vYfrOyKrbblgrgxYrO8X5TTaR95e06l1FxkZB9ww" alt="Manobharathi-2005" height="30" width="40" style="max-width: 100%;"></a>
-</p>
-<hr>
-<h2 tabindex="-1" dir="auto"><a id="user-content-️-my-favorite-tools" class="anchor" aria-hidden="true" href="#️-my-favorite-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠️</g-emoji> My favorite tools</h2>
-<h3 tabindex="-1" dir="auto"><a id="user-content--programming-languages" class="anchor" aria-hidden="true" href="#-programming-languages"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji> Programming languages</h3>
-<p dir="auto">
-  
-  <a href="#"><img alt="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" data-canonical-src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&amp;logoColor=white" style="max-width: 200%;"></a>
-
-  
-   <a href="#"><img alt="CSS" src="https://static.wikia.nocookie.net/coding-help/images/0/05/CSS3_Logo.PNG/revision/latest/thumbnail/width/360/height/360?cb=20210129221230" data-canonical-src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&amp;logoColor=white" style="max-width: 100%;"></a>
-    <a href="#"><img alt="HTML" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s" data-canonical-src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
-    <a href="#"><img alt="Java" src="https://education.oracle.com/file/general/p-80-java.png" data-canonical-src="https://img.shields.io/badge/Java-007396.svg?logo=java&amp;logoColor=white" style="max-width: 100%;"></a>
-    <a href="#"><img alt="JavaScript" src="https://ellipsiseducation.com/wp-content/uploads/2023/02/javascript-736400_1280.png" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&amp;logoColor=black" style="max-width: 100%;"></a>
-    <a href="#"><img alt=" My SQL" src="https://www.websolutions.cy/technologies/mysql/logo.svg" data-canonical-src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&amp;logoColor=white" style="max-width: 100%;"></a>
-</p>
-<h3 tabindex="-1" dir="auto"><a id="user-content--frameworks-and-libraries" class="anchor" aria-hidden="true" href="#-frameworks-and-libraries"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">🧰</g-emoji> Frameworks and libraries</h3>
-<p dir="auto">
-    <a href="#"><img alt="Bootstrap" src="https://camo.githubusercontent.com/bc050eb2d16bdd3fc50eef513cf1717ddbafa51a311312ada6b8c49a48632731/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3739353242332e7376673f6c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&amp;logoColor=white" style="max-width: 100%;"></a>
-
-</p>
-<h3 tabindex="-1" dir="auto"><a id="user-content-️-databases-and-cloud-hosting" class="anchor" aria-hidden="true" href="#️-databases-and-cloud-hosting"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><g-emoji class="g-emoji" alias="file_cabinet" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5c4.png">🗄️</g-emoji> Databases and cloud hosting</h3>
-<p dir="auto">
-    <a href="#"><img alt="MongoDB" src="https://camo.githubusercontent.com/61c6ad1edcbf1f1d03ce421a9d70c450b833acd582286de109d4a9f463acd1f2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3465613934622e7376673f6c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&amp;logoColor=white" style="max-width: 100%;"></a>
-    <a href="#"><img alt="MySQL" src="https://camo.githubusercontent.com/dd23a25bf25843bfc44c14f7d3d5e408c6e7496356250a141ef978b58839e844/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030662e7376673f6c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&amp;logoColor=white" style="max-width: 100%;"></a>
-</p>
-<h3 tabindex="-1" dir="auto"><a id="user-content--software-and-tools" class="anchor" aria-hidden="true" href="#-software-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Software and tools</h3>
-<p dir="auto">
-    <a href="#"><img alt="Brave" src="https://camo.githubusercontent.com/6cb458fe6d271321e7ab38c6da1faf733caf7ddaf88d27c7f3b6876ce9e3a362/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d42726176652d4642353432423f6c6f676f3d6272617665266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&amp;logoColor=white" style="max-width: 100%;"></a>
-    <a href="#"><img alt="Codepen" src="https://camo.githubusercontent.com/59058cb3fb2e5aac023252dcc7a4787b1ecbfaeafb0851d235a710f67ede8cd2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f646570656e2d3030303030302e7376673f6c6f676f3d636f646570656e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&amp;logoColor=white" style="max-width: 100%;"></a>
-    <a href="#"><img alt="Git" src="https://camo.githubusercontent.com/b957ad4a7456b1ed2ddea1f1e5d7789b1df3c8c5bbcf9427775b0ccad8e0c200/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033332e7376673f6c6f676f3d676974266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Git-F05033.svg?logo=git&amp;logoColor=white" style="max-width: 100%;"></a>
-    <a href="#"><img alt="Jupyter" src="https://camo.githubusercontent.com/4fdc7fc007e28e85b6d2c973300205839144be47e77831923d762560089fa97a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a7570797465722d4633373632362e7376673f6c6f676f3d4a757079746572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&amp;logoColor=white" style="max-width: 100%;"></a>
-    <a href="#"><img alt="Postman" src="https://camo.githubusercontent.com/a0d4ee5c8ade6c8d92532978856e34de4be418cad95073fef0a00536e91802fa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f6c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&amp;logoColor=white" style="max-width: 100%;"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://camo.githubusercontent.com/26e24924e6b305b420fe35cac175ab285d3d9faa7facd26e8a98c1f4256f768d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537461636b2532304f766572666c6f772d4645374131363f6c6f676f3d737461636b2d6f766572666c6f77266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&amp;logoColor=white" style="max-width: 100%;"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://camo.githubusercontent.com/f53628686f10ddabc221f47e91499adfaaed5663511900009deb71bd3c873236/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f6c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&amp;logoColor=white" style="max-width: 100%;"></a>
-</p>
-
+# I'm Manobharathi
+### A passionate Java Full Stack Developer from India 🇮🇳
 </div>
+
+<img align="right" style="border-radius:20px;" alt="Coding" width="400" src="https://github.com/ayrus-369/ayrus-369/blob/main/github-gif.gif"/>
+
+---
+
+- 🔭 I’m currently pursuing **Information Technology** at **K.L.N College of Engineering and Technology (2022–2026)**  
+- 💬 Ask me about **HTML, CSS, JavaScript, Java, Spring Boot, React.js, MySQL**  
+- 📫 Reach me at: **m.manobharathi123@gmail.com**
+
+---
+
+## 🌐 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/manobharathi-m-69585b23b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/mmanobharathi123/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" width="40" height="30"/>
+  </a>
+  <a href="https://takeuforward.org/profile/manobharathi" target="_blank">
+    <img src="https://yt3.googleusercontent.com/ytc/AIdro_mdPFTT7VuJHQkvzW9gjJxvSV3bBDpEVNw8dWOmHjTT5g=s900-c-k-c0x00ffffff-no-rj" alt="TakeUForward" width="40" height="30"/>
+  </a>
+  <a href="https://leetcode.com/user6465gj/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="30"/>
+  </a>
+  <a href="https://www.hackerrank.com/m_manobharathi11" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" width="40" height="30"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ My Favorite Tools
+
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="40"/>
+  <img src="https://static.wikia.nocookie.net/coding-help/images/0/05/CSS3_Logo.PNG" alt="CSS" width="40"/>
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" width="40"/>
+  <img src="https://education.oracle.com/file/general/p-80-java.png" alt="Java" width="40"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="40"/>
+</p>
+
+### 🧰 Frameworks and Libraries
+<p>
+  <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React.js" width="40"/>
+  <img src="https://spring.io/images/icon-spring-boot-5f6f9d3d4c6ea7f6fdd9f3d6c18c6c78.svg" alt="Spring Boot" width="40"/>
+</p>
