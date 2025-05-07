@@ -6,9 +6,9 @@
 ### A passionate Java Full Stack Developer from India 🇮🇳
 </div>
 
-<img align="right" style="border-radius:20px;" alt="Coding" width="300" src="https://github.com/ayrus-369/ayrus-369/blob/main/github-gif.gif"/>
+<img align="right" style="border-radius:20px;" alt="Coding" width="380" src="https://github.com/ayrus-369/ayrus-369/blob/main/github-gif.gif"/>
 
----
+
 
 - 🔭 I’m currently pursuing **Information Technology** at **K.L.N College of Engineering and Technology (2022–2026)**  
 - 💬 Ask me about **HTML, CSS, JavaScript, Java, Spring Boot, React.js, MySQL**  
