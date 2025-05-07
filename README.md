@@ -6,7 +6,7 @@
 ### A passionate Java Full Stack Developer from India 🇮🇳
 </div>
 
-<img align="right" style="border-radius:20px;" alt="Coding" width="400" src="https://github.com/ayrus-369/ayrus-369/blob/main/github-gif.gif"/>
+<img align="right" style="border-radius:20px;" alt="Coding" width="200" src="https://github.com/ayrus-369/ayrus-369/blob/main/github-gif.gif"/>
 
 ---
 
