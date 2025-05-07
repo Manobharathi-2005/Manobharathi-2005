@@ -45,7 +45,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="40"/>
   <img src="https://static.wikia.nocookie.net/coding-help/images/0/05/CSS3_Logo.PNG" alt="CSS" width="40"/>
   <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" width="40"/>
-  <img src="https://education.oracle.com/file/general/p-80-java.png" alt="Java" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40"/>
   <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="40"/>
 </p>
@@ -54,5 +54,5 @@
 <p>
   <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React.js" width="40"/>
-  <img src="https://spring.io/images/icon-spring-boot-5f6f9d3d4c6ea7f6fdd9f3d6c18c6c78.svg" alt="Spring Boot" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40"/>
 </p>
